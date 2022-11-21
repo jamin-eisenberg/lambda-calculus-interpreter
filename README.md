@@ -1,7 +1,8 @@
 # Lambda Calculus Interpreter
 
 See [test.lam](res/test.lam) for many examples of how to define and evaluate λ-calculus expressions
-in my interpreted language.
+in my interpreted language. See [here](https://en.wikipedia.org/wiki/Lambda_calculus) for an 
+explanation of what lambda calculus is if you're unfamiliar.
 
 To compile, run the following:
 
